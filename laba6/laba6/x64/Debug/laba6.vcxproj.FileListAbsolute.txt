@@ -1,0 +1,8 @@
+C:\Users\vadim_25\source\repos\laba6\laba6\x64\Debug\laba6.vcxproj.AssemblyReference.cache
+C:\Users\vadim_25\source\repos\laba6\laba6\x64\Debug\laba6.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\vadim_25\source\repos\laba6\laba6\x64\Debug\laba6.MyForm.resources
+C:\Users\vadim_25\source\repos\laba6\laba6\x64\Debug\laba6.vcxproj.GenerateResource.cache
+D:\laba6\laba6\x64\Debug\laba6.vcxproj.AssemblyReference.cache
+D:\laba6\laba6\x64\Debug\laba6.vcxproj.SuggestedBindingRedirects.cache
+D:\laba6\laba6\x64\Debug\laba6.MyForm.resources
+D:\laba6\laba6\x64\Debug\laba6.vcxproj.GenerateResource.cache
